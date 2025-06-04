@@ -46,4 +46,4 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            elegantbook-cn.pdf
+            elegantpaper-cn.pdf
